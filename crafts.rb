@@ -2,7 +2,8 @@ require 'formula'
 
 class Crafts < Formula
   homepage 'https://github.com/vitorgalvao/tiny-scripts'
-  head 'https://github.com/vitorgalvao/tiny-scripts.git'
+  url 'https://github.com/vitorgalvao/tiny-scripts.git'
+  version '0.1'
 
   def install
     (prefix/'etc/profile.d').install 'crafts'
