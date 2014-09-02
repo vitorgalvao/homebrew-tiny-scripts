@@ -6,7 +6,7 @@ class OlxProlongar < Formula
 
   homepage 'https://github.com/vitorgalvao/tiny-watir-scripts'
   url 'https://github.com/vitorgalvao/tiny-watir-scripts.git'
-  version '0.2'
+  version '0.2.1'
 
   def install
     bin.install 'olx-prolongar'
