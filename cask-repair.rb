@@ -3,7 +3,7 @@ require 'formula'
 class CaskRepair < Formula
   homepage 'https://github.com/vitorgalvao/tiny-scripts'
   url 'https://github.com/vitorgalvao/tiny-scripts.git'
-  version '0.4.3'
+  version '0.5'
 
   def install
     bin.install 'cask-repair'
