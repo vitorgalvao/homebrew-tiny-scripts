@@ -4,6 +4,7 @@ class ReadabilityDeleteArchives < Formula
   depends_on 'watir-webdriver' => :ruby
   depends_on 'phantomjs'
 
+  desc 'Script to delete you read archives from readability'
   homepage 'https://github.com/vitorgalvao/tiny-watir-scripts'
   url 'https://github.com/vitorgalvao/tiny-watir-scripts.git'
   version '0.1'
