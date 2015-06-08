@@ -4,6 +4,7 @@ class PedirGas < Formula
   depends_on 'watir-webdriver' => :ruby
   depends_on 'phantomjs'
 
+  desc 'Script to ask gas delivery from drogaria Ponto Azul'
   homepage 'https://github.com/vitorgalvao/tiny-watir-scripts'
   url 'https://github.com/vitorgalvao/tiny-watir-scripts.git'
   version '0.1.1'
