@@ -1,7 +1,6 @@
 require 'formula'
 
 class OlxPost < Formula
-  depends_on 'watir-webdriver' => :ruby
   depends_on 'phantomjs'
 
   desc 'Script to post ads to OLX quicker'
