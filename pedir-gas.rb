@@ -1,7 +1,6 @@
 require 'formula'
 
 class PedirGas < Formula
-  depends_on 'watir-webdriver' => :ruby
   depends_on 'phantomjs'
 
   desc 'Script to ask gas delivery from drogaria Ponto Azul'
