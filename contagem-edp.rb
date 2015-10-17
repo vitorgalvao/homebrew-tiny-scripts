@@ -1,7 +1,6 @@
 require 'formula'
 
 class ContagemEdp < Formula
-  depends_on 'watir-webdriver' => :ruby
   depends_on 'phantomjs'
 
   desc 'Script to send your energy usage to EDP'
