@@ -1,7 +1,6 @@
 require 'formula'
 
 class OlxProlongar < Formula
-  depends_on 'watir-webdriver' => :ruby
   depends_on 'phantomjs'
 
   desc 'Script to automate the renewal of OLX expiring ads'
