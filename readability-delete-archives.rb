@@ -1,7 +1,6 @@
 require 'formula'
 
 class ReadabilityDeleteArchives < Formula
-  depends_on 'watir-webdriver' => :ruby
   depends_on 'phantomjs'
 
   desc 'Script to delete you read archives from readability'
