@@ -1,4 +1,3 @@
-require 'formula'
 
 class SetupPhpContactForm < Formula
   desc 'Setup for easy start of a PHP contact form'

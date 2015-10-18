@@ -1,4 +1,3 @@
-require 'formula'
 
 class Seren < Formula
   desc 'Script to rename files in a numerical sequence'

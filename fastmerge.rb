@@ -1,4 +1,3 @@
-require 'formula'
 
 class Fastmerge < Formula
   desc 'Script to quickly pull and push github pull requests to keep commit history cleaner, merging directly to master and closing the previous pull request'

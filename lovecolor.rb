@@ -1,4 +1,3 @@
-require 'formula'
 
 class Lovecolor < Formula
   desc 'Script to get color palette from colourlovers and format it to use in processing'

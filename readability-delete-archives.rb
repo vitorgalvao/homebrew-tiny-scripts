@@ -1,4 +1,3 @@
-require 'formula'
 
 class ReadabilityDeleteArchives < Formula
   depends_on 'phantomjs'

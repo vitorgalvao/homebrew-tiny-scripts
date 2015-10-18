@@ -1,4 +1,3 @@
-require 'formula'
 
 class Podbook < Formula
   desc 'Script to generate a podcast RSS feed for audiobooks'

@@ -1,4 +1,3 @@
-require 'formula'
 
 class Unsplashdownload < Formula
   desc 'Script to download images from unsplash’s last batch'

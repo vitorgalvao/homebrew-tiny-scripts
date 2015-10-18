@@ -1,4 +1,3 @@
-require 'formula'
 
 class OlxPost < Formula
   depends_on 'phantomjs'

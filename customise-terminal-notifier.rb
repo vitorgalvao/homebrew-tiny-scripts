@@ -1,4 +1,3 @@
-require 'formula'
 
 class CustomiseTerminalNotifier < Formula
   desc 'Script to setup terminal-notifier with a custom icon'

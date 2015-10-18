@@ -1,4 +1,3 @@
-require 'formula'
 
 class Crafts < Formula
   desc 'Script to allow copy/cut/paste between different terminal windows'

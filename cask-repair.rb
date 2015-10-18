@@ -1,4 +1,3 @@
-require 'formula'
 
 class CaskRepair < Formula
   desc 'Script to quickly repair outdated/broken Casks from homebrew-cask'

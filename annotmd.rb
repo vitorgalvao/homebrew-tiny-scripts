@@ -1,4 +1,3 @@
-require 'formula'
 
 class Annotmd < Formula
   desc 'Script to convert .annot files to .md'

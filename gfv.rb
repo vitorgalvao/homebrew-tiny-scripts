@@ -1,4 +1,3 @@
-require 'formula'
 
 class Gfv < Formula
   depends_on 'imagemagick'
