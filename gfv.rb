@@ -1,4 +1,3 @@
-
 class Gfv < Formula
   depends_on 'imagemagick'
   depends_on 'ffmpeg'

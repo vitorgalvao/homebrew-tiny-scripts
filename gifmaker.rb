@@ -1,4 +1,3 @@
-
 class Gifmaker < Formula
   depends_on 'imagemagick'
 

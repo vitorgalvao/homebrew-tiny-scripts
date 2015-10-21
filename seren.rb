@@ -1,4 +1,3 @@
-
 class Seren < Formula
   desc 'Script to rename files in a numerical sequence'
   homepage 'https://github.com/vitorgalvao/tiny-scripts'

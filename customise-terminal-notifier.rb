@@ -1,4 +1,3 @@
-
 class CustomiseTerminalNotifier < Formula
   desc 'Script to setup terminal-notifier with a custom icon'
   homepage 'https://github.com/vitorgalvao/tiny-scripts'

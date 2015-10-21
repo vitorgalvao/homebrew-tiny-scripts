@@ -1,4 +1,3 @@
-
 class Annotmd < Formula
   desc 'Script to convert .annot files to .md'
   homepage 'https://github.com/vitorgalvao/tiny-scripts'

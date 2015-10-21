@@ -1,4 +1,3 @@
-
 class PedirGas < Formula
   depends_on 'phantomjs'
 

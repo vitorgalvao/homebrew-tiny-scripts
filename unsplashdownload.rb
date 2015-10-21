@@ -1,4 +1,3 @@
-
 class Unsplashdownload < Formula
   desc 'Script to download images from unsplash’s last batch'
   homepage 'https://github.com/vitorgalvao/tiny-scripts'

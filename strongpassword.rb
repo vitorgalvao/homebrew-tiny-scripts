@@ -1,4 +1,3 @@
-
 class Strongpassword < Formula
   desc 'Script to get a strong password by leveraging multiple sources'
   homepage 'https://github.com/vitorgalvao/tiny-scripts'

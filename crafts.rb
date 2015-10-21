@@ -1,4 +1,3 @@
-
 class Crafts < Formula
   desc 'Script to allow copy/cut/paste between different terminal windows'
   homepage 'https://github.com/vitorgalvao/tiny-scripts'

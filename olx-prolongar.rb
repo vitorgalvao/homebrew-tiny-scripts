@@ -1,4 +1,3 @@
-
 class OlxProlongar < Formula
   depends_on 'phantomjs'
 

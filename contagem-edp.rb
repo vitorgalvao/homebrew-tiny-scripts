@@ -1,4 +1,3 @@
-
 class ContagemEdp < Formula
   depends_on 'phantomjs'
 

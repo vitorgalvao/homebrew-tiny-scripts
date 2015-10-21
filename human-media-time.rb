@@ -1,4 +1,3 @@
-
 class HumanMediaTime < Formula
   depends_on 'mediainfo'
 

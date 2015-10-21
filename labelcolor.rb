@@ -1,4 +1,3 @@
-
 class Labelcolor < Formula
   desc 'Script to change label color of files in OS X'
   homepage 'https://github.com/vitorgalvao/tiny-scripts'

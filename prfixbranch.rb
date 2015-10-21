@@ -1,4 +1,3 @@
-
 class Prfixbranch < Formula
   desc 'Script to quickly pull, fix, and push github pull requests, creating a new pull request with the fix'
   homepage 'https://github.com/vitorgalvao/tiny-scripts'
