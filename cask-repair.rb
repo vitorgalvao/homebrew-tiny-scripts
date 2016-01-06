@@ -1,6 +1,6 @@
 class CaskRepair < Formula
   depends_on 'hub'
-  depends_on 'hr'
+  depends_on 'hr' => :recommended
 
   desc 'Script to quickly repair outdated/broken Casks from homebrew-cask'
   homepage 'https://github.com/vitorgalvao/tiny-scripts'
