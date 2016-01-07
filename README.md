@@ -1,4 +1,4 @@
-# Homebrew-tinyscripts
+# Homebrew-tiny-scripts
 
 Homebrew tap to install scripts from [tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) and [tiny-watir-scripts](https://github.com/vitorgalvao/tiny-watir-scripts).
 
@@ -9,7 +9,7 @@ You’ll need [homebrew](http://brew.sh/) installed, before running these.
 [Tap](https://github.com/Homebrew/homebrew/wiki/brew-tap) this repository by running
 
 ```bash
-brew tap vitorgalvao/homebrew-tinyscripts
+brew tap vitorgalvao/homebrew-tiny-scripts
 ```
 
 Afterwards, install them as any other *formula*. For example, to install `gifmaker`, run
