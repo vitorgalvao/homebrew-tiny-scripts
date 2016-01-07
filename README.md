@@ -9,7 +9,7 @@ You’ll need [homebrew](http://brew.sh/) installed, before running these.
 [Tap](https://github.com/Homebrew/homebrew/wiki/brew-tap) this repository by running
 
 ```bash
-brew tap vitorgalvao/homebrew-tiny-scripts
+brew tap vitorgalvao/tiny-scripts
 ```
 
 Afterwards, install them as any other *formula*. For example, to install `gifmaker`, run
