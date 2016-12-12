@@ -1,5 +1,6 @@
 class ContagemEdp < Formula
   depends_on 'phantomjs'
+  depends_on 'watir' => :ruby
 
   desc 'Script to send your energy usage to EDP'
   homepage 'https://github.com/vitorgalvao/tiny-watir-scripts'
