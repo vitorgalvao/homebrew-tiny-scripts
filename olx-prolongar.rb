@@ -1,5 +1,6 @@
 class OlxProlongar < Formula
   depends_on 'phantomjs'
+  depends_on 'watir' => :ruby
 
   desc 'Script to automate the renewal of OLX expiring ads'
   homepage 'https://github.com/vitorgalvao/tiny-watir-scripts'
