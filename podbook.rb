@@ -1,8 +1,11 @@
 class Podbook < Formula
+  depends_on 'dropbox-uploader'
+  depends_on 'eye-d3'
+
   desc 'Script to generate a podcast RSS feed for audiobooks'
   homepage 'https://github.com/vitorgalvao/tiny-scripts'
   url 'https://github.com/vitorgalvao/tiny-scripts.git'
-  version '0.5.0'
+  version '0.5.1'
 
   def install
     bin.install 'podbook'
