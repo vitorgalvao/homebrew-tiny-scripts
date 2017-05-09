@@ -1,5 +1,5 @@
 class PedirGas < Formula
-  depends_on 'phantomjs'
+  depends_on 'chromedriver'
   depends_on 'watir' => :ruby
 
   desc 'Script to ask gas delivery from drogaria Ponto Azul'
