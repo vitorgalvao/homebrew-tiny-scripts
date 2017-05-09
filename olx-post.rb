@@ -1,5 +1,5 @@
 class OlxPost < Formula
-  depends_on 'phantomjs'
+  depends_on 'chromedriver'
   depends_on 'watir' => :ruby
 
   desc 'Script to post ads to OLX quicker'
