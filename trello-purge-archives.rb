@@ -1,5 +1,5 @@
 class TrelloPurgeArchives < Formula
-  depends_on 'phantomjs'
+  depends_on 'chromedriver'
   depends_on 'watir' => :ruby
 
   desc 'Script to permanently delete all archived cards and cards in closed boards on Trello'
