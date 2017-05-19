@@ -9,6 +9,6 @@ class Progressbar < Formula
 
   def install
     bin.install 'progressbar'
-    man.install 'manpages/progressbar.1'
+    man1.install 'manpages/progressbar.1'
   end
 end
