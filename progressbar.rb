@@ -1,13 +1,13 @@
-class Gifprogress < Formula
+class Progressbar < Formula
   depends_on 'imagemagick'
   depends_on 'ffmpeg'
 
-  desc 'Script to convert a sequence of images or video to a gif or video with a progress bar'
+  desc 'Overlay a progress bar on moving pictures'
   homepage 'https://github.com/vitorgalvao/tiny-scripts'
   url 'https://github.com/vitorgalvao/tiny-scripts.git'
-  version '0.1.0'
+  version '0.0.1'
 
   def install
-    bin.install 'gifprogress'
+    bin.install 'progressbar'
   end
 end
