@@ -5,7 +5,7 @@ class Gifprogress < Formula
   desc 'Script to convert a sequence of images to a gif, with a progress bar'
   homepage 'https://github.com/vitorgalvao/tiny-scripts'
   url 'https://github.com/vitorgalvao/tiny-scripts.git'
-  version '0.0.2'
+  version '0.1.0'
 
   def install
     bin.install 'gifprogress'
