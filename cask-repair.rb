@@ -5,7 +5,7 @@ class CaskRepair < Formula
   desc 'Script to quickly repair outdated/broken Casks from homebrew-cask'
   homepage 'https://github.com/vitorgalvao/tiny-scripts'
   url 'https://github.com/vitorgalvao/tiny-scripts.git'
-  version '0.34.8'
+  version '0.34.9'
 
   def install
     bin.install 'cask-repair'
