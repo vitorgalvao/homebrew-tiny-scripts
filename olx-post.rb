@@ -1,6 +1,5 @@
 class OlxPost < Formula
   depends_on 'chromedriver'
-  depends_on 'watir' => :ruby
 
   desc 'Script to post ads to OLX quicker'
   homepage 'https://github.com/vitorgalvao/tiny-watir-scripts'
