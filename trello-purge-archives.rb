@@ -1,6 +1,4 @@
 class TrelloPurgeArchives < Formula
-  depends_on 'chromedriver'
-
   desc 'Script to permanently delete all archived cards and cards in closed boards on Trello'
   homepage 'https://github.com/vitorgalvao/tiny-watir-scripts'
   url 'https://github.com/vitorgalvao/tiny-watir-scripts.git'
