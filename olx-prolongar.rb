@@ -1,6 +1,4 @@
 class OlxProlongar < Formula
-  depends_on 'chromedriver'
-
   desc 'Script to automate the renewal of OLX expiring ads'
   homepage 'https://github.com/vitorgalvao/tiny-watir-scripts'
   url 'https://github.com/vitorgalvao/tiny-watir-scripts.git'
