@@ -1,6 +1,4 @@
 class ContagemEdp < Formula
-  depends_on 'chromedriver'
-
   desc 'Script to send your energy usage to EDP'
   homepage 'https://github.com/vitorgalvao/tiny-watir-scripts'
   url 'https://github.com/vitorgalvao/tiny-watir-scripts.git'
