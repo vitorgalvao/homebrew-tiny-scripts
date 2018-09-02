@@ -12,10 +12,10 @@ You’ll need [homebrew](http://brew.sh/) installed, before running these.
 brew tap vitorgalvao/tiny-scripts
 ```
 
-Afterwards, install them as any other formula. For example, to install `gifmaker`, run
+Afterwards, install them as any other formula. For example, to install `ringtonemaker`, run
 
 ```bash
-brew install gifmaker
+brew install ringtonemaker
 ```
 
 #### License
