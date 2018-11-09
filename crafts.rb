@@ -8,9 +8,9 @@ class Crafts < Formula
     (prefix/'etc/profile.d').install 'crafts'
   end
 
-  def caveats; <<-EOS.undent
+  def caveats; <<~EOS
     For Bash or Zsh, put something like this in your ${HOME}/.bashrc or ${HOME}/.zshrc:
       source `brew --prefix`/etc/profile.d/crafts
-    EOS
+  EOS
   end
 end
