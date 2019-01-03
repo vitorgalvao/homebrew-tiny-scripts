@@ -1,5 +1,5 @@
 class Podbook < Formula
-  depends_on 'eye-d3'
+  depends_on 'eyed3' => :python
 
   desc 'Script to generate a podcast RSS feed for audiobooks'
   homepage 'https://github.com/vitorgalvao/tiny-scripts'
