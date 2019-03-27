@@ -6,7 +6,7 @@ Homebrew tap to install scripts from [tiny-scripts](https://github.com/vitorgalv
 
 You’ll need [homebrew](http://brew.sh/) installed, before running these.
 
-[Tap](https://github.com/Homebrew/homebrew/wiki/brew-tap) this repository by running
+[Tap](https://github.com/Homebrew/brew/blob/master/docs/Taps.md) this repository by running
 
 ```bash
 brew tap vitorgalvao/tiny-scripts
