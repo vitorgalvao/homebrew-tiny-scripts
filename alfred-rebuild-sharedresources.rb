@@ -1,4 +1,3 @@
-
 class AlfredRebuildSharedresources < Formula
   desc 'Script to update _shared_resources in all my Workflows'
   homepage 'https://github.com/vitorgalvao/tiny-alfred-scripts'
