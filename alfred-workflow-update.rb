@@ -1,4 +1,3 @@
-
 class AlfredWorkflowUpdate < Formula
   desc 'Script to update and package a Workflow from the Workflows directory to the github repo'
   homepage 'https://github.com/vitorgalvao/tiny-alfred-scripts'
