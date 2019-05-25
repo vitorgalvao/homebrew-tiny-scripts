@@ -1,4 +1,3 @@
-
 class AlfredRebuildNotificator < Formula
   desc 'Script to update Notificator in all Workflows with "Vítor Galvão" as the creator'
   homepage 'https://github.com/vitorgalvao/tiny-alfred-scripts'
