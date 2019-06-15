@@ -1,10 +1,10 @@
 class CaskAnalytics < Formula
-  desc 'Script to show analytics information for casks in the main taps'
-  homepage 'https://github.com/vitorgalvao/tiny-scripts'
-  url 'https://github.com/vitorgalvao/tiny-scripts.git'
-  version '0.0.4'
+  desc "Script to show analytics information for casks in the main taps"
+  homepage "https://github.com/vitorgalvao/tiny-scripts"
+  url "https://github.com/vitorgalvao/tiny-scripts.git"
+  version "0.0.4"
 
   def install
-    bin.install 'cask-analytics'
+    bin.install "cask-analytics"
   end
 end

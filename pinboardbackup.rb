@@ -1,10 +1,10 @@
 class Pinboardbackup < Formula
-  desc 'Script to backup all bookmarks in your pinboard account'
-  homepage 'https://github.com/vitorgalvao/tiny-scripts'
-  url 'https://github.com/vitorgalvao/tiny-scripts.git'
-  version '0.0.5'
+  desc "Script to backup all bookmarks in your pinboard account"
+  homepage "https://github.com/vitorgalvao/tiny-scripts"
+  url "https://github.com/vitorgalvao/tiny-scripts.git"
+  version "0.0.5"
 
   def install
-    bin.install 'pinboardbackup'
+    bin.install "pinboardbackup"
   end
 end
