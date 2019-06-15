@@ -1,5 +1,5 @@
 class LosslessCompress < Formula
-  desc "Script to losslessly compress files"
+  desc "Losslessly compress files"
   homepage "https://github.com/vitorgalvao/tiny-scripts"
   url "https://github.com/vitorgalvao/tiny-scripts.git"
   version "0.0.1"

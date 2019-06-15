@@ -1,5 +1,5 @@
 class AlfredWorkflowsRenamer < Formula
-  desc "Script to rename Alfred Workflows in the preferences directory after their name and bundle ID"
+  desc "Rename Alfred Workflows in the preferences directory after their name and bundle ID"
   homepage "https://github.com/vitorgalvao/tiny-alfred-scripts"
   url "https://github.com/vitorgalvao/tiny-alfred-scripts.git"
   version "0.0.1"

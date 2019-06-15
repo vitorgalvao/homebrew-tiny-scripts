@@ -1,5 +1,5 @@
 class LinuxUsb < Formula
-  desc "Script to facilitate installing Linux on a USB stick, from macOS"
+  desc "Facilitate installing Linux on a USB stick, from macOS"
   homepage "https://github.com/vitorgalvao/tiny-scripts"
   url "https://github.com/vitorgalvao/tiny-scripts.git"
   version "0.0.2"

@@ -1,5 +1,5 @@
 class Macspoof < Formula
-  desc "Script to spoof the MAC address"
+  desc "Spoof the MAC address"
   homepage "https://github.com/vitorgalvao/tiny-scripts"
   url "https://github.com/vitorgalvao/tiny-scripts.git"
   version "0.0.1"

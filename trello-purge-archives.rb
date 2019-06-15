@@ -1,5 +1,5 @@
 class TrelloPurgeArchives < Formula
-  desc "Script to permanently delete all archived cards and cards in closed boards on Trello"
+  desc "Permanently delete all archived cards and cards in closed boards on Trello"
   homepage "https://github.com/vitorgalvao/tiny-watir-scripts"
   url "https://github.com/vitorgalvao/tiny-watir-scripts.git"
   version "0.0.3"
