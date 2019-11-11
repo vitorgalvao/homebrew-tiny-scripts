@@ -2,7 +2,7 @@ class CaskRepair < Formula
   desc "Quickly repair outdated/broken Casks from homebrew-cask"
   homepage "https://github.com/vitorgalvao/tiny-scripts"
   url "https://github.com/vitorgalvao/tiny-scripts.git"
-  version "0.40.14"
+  version "0.40.15"
 
   depends_on "hub"
   depends_on "hr" => :recommended
