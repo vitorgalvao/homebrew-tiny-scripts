@@ -2,7 +2,7 @@ class Pinboardlinkcheck < Formula
   desc "Check the status code of links saved in your pinboard account"
   homepage "https://github.com/vitorgalvao/tiny-scripts"
   url "https://github.com/vitorgalvao/tiny-scripts.git"
-  version "0.7.2"
+  version "0.7.3"
 
   def install
     bin.install "pinboardlinkcheck"
