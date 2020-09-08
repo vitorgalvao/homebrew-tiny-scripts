@@ -1,5 +1,5 @@
 class CliAcceptButton < Formula
-  desc "Accept github pull requests via the review button API"
+  desc "Accept GitHub pull requests via the review button API"
   homepage "https://github.com/vitorgalvao/tiny-scripts"
   url "https://github.com/vitorgalvao/tiny-scripts.git"
   version "0.0.1"
