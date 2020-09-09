@@ -5,6 +5,6 @@ class CliApproveButton < Formula
   version "0.0.1"
 
   def install
-    bin.install "cli-accept-button"
+    bin.install "cli-approve-button"
   end
 end
