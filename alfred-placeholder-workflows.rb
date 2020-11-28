@@ -1,5 +1,5 @@
 class AlfredPlaceholderWorkflows < Formula
-  desc "Create dummy Alfred Workflows that update to their real counterparts, to host on Packal"
+  desc "Dummy Alfred Workflows for updating real counterparts hosted on Packal"
   homepage "https://github.com/vitorgalvao/tiny-alfred-scripts"
   url "https://github.com/vitorgalvao/tiny-alfred-scripts.git"
   version "0.0.1"
