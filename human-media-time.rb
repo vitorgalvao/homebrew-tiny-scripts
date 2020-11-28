@@ -1,5 +1,5 @@
 class HumanMediaTime < Formula
-  desc "Calculate the total running time of multiple media files, presenting the output in a human-readable way"
+  desc "Calculate total running time of media files & present human-readable output"
   homepage "https://github.com/vitorgalvao/tiny-scripts"
   url "https://github.com/vitorgalvao/tiny-scripts.git"
   version "0.4.1"
