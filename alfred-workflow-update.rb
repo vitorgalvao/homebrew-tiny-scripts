@@ -1,5 +1,5 @@
 class AlfredWorkflowUpdate < Formula
-  desc "Package and update a Workflow from the Workflows directory to the vitorgalvao/alfred-workflows github repo"
+  desc "Package & update Workflow from directory to vitorgalvao/alfred-workflows repo"
   homepage "https://github.com/vitorgalvao/tiny-alfred-scripts"
   url "https://github.com/vitorgalvao/tiny-alfred-scripts.git"
   version "0.0.1"
