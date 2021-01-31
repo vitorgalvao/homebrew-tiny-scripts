@@ -2,7 +2,7 @@ class Ringtonemaker < Formula
   desc "Convert a video or audio file to an iPhone ringtone"
   homepage "https://github.com/vitorgalvao/tiny-scripts"
   url "https://github.com/vitorgalvao/tiny-scripts.git"
-  version "0.0.8"
+  version "0.0.9"
 
   depends_on "ffmpeg"
 
