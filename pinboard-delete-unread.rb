@@ -1,8 +1,8 @@
 class PinboardDeleteUnread < Formula
-  desc "Substitute URLs of pinboard bookmarks"
+  desc "Delete Pinboard unread bookmarks older than X days"
   homepage "https://github.com/vitorgalvao/tiny-scripts"
   url "https://github.com/vitorgalvao/tiny-scripts.git"
-  version "0.1.0"
+  version "0.0.1"
 
   def install
     bin.install "pinboard-delete-unread"
