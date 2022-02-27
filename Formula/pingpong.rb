@@ -2,7 +2,7 @@ class Pingpong < Formula
   desc "Stitch a video with its reversed version, for continuous loops"
   homepage "https://github.com/vitorgalvao/tiny-scripts"
   url "https://github.com/vitorgalvao/tiny-scripts.git"
-  version "0.0.1"
+  version "2022.1"
 
   depends_on "ffmpeg"
 

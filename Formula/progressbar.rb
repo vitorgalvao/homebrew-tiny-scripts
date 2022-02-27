@@ -2,7 +2,7 @@ class Progressbar < Formula
   desc "Overlay a progress bar on videos or gifs"
   homepage "https://github.com/vitorgalvao/tiny-scripts"
   url "https://github.com/vitorgalvao/tiny-scripts.git"
-  version "0.1.2"
+  version "2022.1"
 
   depends_on "ffmpeg"
   depends_on "gfv"
