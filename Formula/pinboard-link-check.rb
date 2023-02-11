@@ -1,7 +1,7 @@
 class PinboardLinkCheck < Formula
   desc "Check the status code of links saved to a pinboard account"
-  homepage "https://github.com/vitorgalvao/tiny-scripts"
-  url "https://github.com/vitorgalvao/tiny-scripts.git"
+  homepage "https://github.com/vitorgalvao/tiny-pinboard-scripts"
+  url "https://github.com/vitorgalvao/tiny-pinboard-scripts.git"
   version "2022.1"
 
   def install

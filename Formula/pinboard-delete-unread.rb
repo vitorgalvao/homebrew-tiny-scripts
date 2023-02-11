@@ -1,7 +1,7 @@
 class PinboardDeleteUnread < Formula
   desc "Delete Pinboard unread bookmarks older than X days"
-  homepage "https://github.com/vitorgalvao/tiny-scripts"
-  url "https://github.com/vitorgalvao/tiny-scripts.git"
+  homepage "https://github.com/vitorgalvao/tiny-pinboard-scripts"
+  url "https://github.com/vitorgalvao/tiny-pinboard-scripts.git"
   version "2022.1"
 
   def install
