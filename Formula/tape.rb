@@ -2,7 +2,7 @@ class Tape < Formula
   desc "Backup and restore software settings on macOS"
   homepage "https://github.com/vitorgalvao/tape"
   url "https://github.com/vitorgalvao/tape.git", branch: "main"
-  version "2022.4"
+  version "2023.1"
 
   depends_on "ruby"
 
