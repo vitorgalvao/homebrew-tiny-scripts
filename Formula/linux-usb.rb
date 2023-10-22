@@ -1,5 +1,5 @@
 class LinuxUsb < Formula
-  desc "Facilitate installing Linux on a USB stick, from macOS"
+  desc "Create bootable Linux USB sticks from ISOs on macOS"
   homepage "https://github.com/vitorgalvao/tiny-scripts"
   url "https://github.com/vitorgalvao/tiny-scripts.git"
   version "2022.1"
