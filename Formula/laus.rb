@@ -1,8 +1,8 @@
 class Laus < Formula
   desc "Shortcuts for launchctl actions"
-  homepage "https://github.com/vitorgalvao/tiny-scripts"
-  url "https://github.com/vitorgalvao/tiny-scripts.git"
-  version "2024.1"
+  homepage "https://github.com/vitorgalvao/laus"
+  url "https://github.com/vitorgalvao/laus.git"
+  version "2025.1"
 
   def install
     bin.install "laus"
