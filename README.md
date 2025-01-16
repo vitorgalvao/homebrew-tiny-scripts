@@ -1,6 +1,6 @@
 # Homebrew-tiny-scripts
 
-Homebrew tap to install scripts from [vitorgalvao](https://github.com/vitorgalvao/), notably [tiny-scripts](https://github.com/vitorgalvao/tiny-scripts).
+Homebrew tap to install scripts from various [vitorgalvao](https://github.com/vitorgalvao/) repositories.
 
 ## Usage
 
