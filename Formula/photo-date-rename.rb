@@ -4,6 +4,8 @@ class PhotoDateRename < Formula
   url "https://github.com/vitorgalvao/photo-date-rename.git", branch: "main"
   version "2023.1"
 
+  depends_on "exiftool"
+
   def install
     bin.install "photo-date-rename"
   end
