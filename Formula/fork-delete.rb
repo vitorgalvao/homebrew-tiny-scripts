@@ -1,8 +1,8 @@
 class ForkDelete < Formula
   desc "Delete your GitHub forks where you do not have pending pull requests"
-  homepage "https://github.com/vitorgalvao/tiny-scripts"
-  url "https://github.com/vitorgalvao/tiny-scripts.git"
-  version "2024.1"
+  homepage "https://github.com/vitorgalvao/fork-delete"
+  url "https://github.com/vitorgalvao/fork-delete.git", branch: "main"
+  version "2025.1"
 
   depends_on "gh"
 
