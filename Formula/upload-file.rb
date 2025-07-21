@@ -2,7 +2,7 @@ class UploadFile < Formula
   desc "Upload paths, with support for several file hosts"
   homepage "https://github.com/vitorgalvao/upload-file"
   url "https://github.com/vitorgalvao/upload-file.git", branch: "main"
-  version "25.1"
+  version "2025.2"
 
   def install
     bin.install "upload-file"
